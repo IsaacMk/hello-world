@@ -2,4 +2,4 @@
 A respiratory
 
 hello world
-Am Isaac an upcoming developer
+Am Isaac a developer
